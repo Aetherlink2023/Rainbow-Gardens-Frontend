@@ -28,9 +28,6 @@ export default function Footer() {
         <div className="footerBottomLeftDiv">
           <div className="footerBottomLeftContent">
             <div className="footerContent">
-              <span>
-                flourish together get the plants makes you happy
-              </span>
             </div>
 
             <div className="footerIconDiv">
